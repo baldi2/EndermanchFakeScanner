@@ -1,8 +1,8 @@
-# Malware Database
+# Fake Scanner Collection
 ### Disclaimer
-This repository is one of the few malware collections on GitHub. Almost every sample here is **malicious** so I strongly recommend you to neither open these files on real hardware, nor misuse the malware to *prank* your friends. Playing with these samples may lead to irreversible consequences which may affect **anything** from personal data to passwords and banking information.
+This repository is one of the few fake scanners on GitHub. Almost every sample here is **malicious** so I strongly recommend you to neither use these fake scanners on real hardware, nor misuse the malware to *prank* your friends. Playing with these samples may lead to irreversible consequences which may affect **anything** from personal data to passwords and banking information.
 
-**I am not responsible for any damage caused by the malware inside my repository and your negligence in general.**
+**I am not responsible for any damage caused by the scanners inside my repository and your negligence in general.**
 
 ### Table of contents
 1. [Introduction](#introduction)
@@ -38,11 +38,7 @@ Here is a table of approximate percentage ratio of malware in my repository.
 
 Malware type | Percentage
 ------------ | -------------
-Rogue (Fraud) | 40%
-Joke | 35%
-Trojan | 10%
-Ransomware | 10%
-Self-made / Viewer-made | 5%
+Scanner | 69%
 
 # FAQ
 ### Here you can find answers to frequently asked questions. This may be helpful!
